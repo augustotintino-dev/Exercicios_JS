@@ -1,0 +1,15 @@
+#descrition {
+  font-family: "Zeyada", cursive;
+  font-size: 22px;
+  display: block;
+  align-items: center;
+  margin-top: 15px;
+  margin-bottom: 22px;
+  margin-left: 450px;
+}
+body {
+  background-color: darkgreen;
+}
+img {
+  margin-left: 450px;
+}
