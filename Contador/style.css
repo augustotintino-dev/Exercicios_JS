@@ -1,0 +1,8 @@
+body {
+  background-color: aqua;
+}
+h1, h3 {
+  align-items: center;
+  justify-content: center;
+  display: flex;  
+}
